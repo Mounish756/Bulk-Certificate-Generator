@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+alembic
+pydantic
+pydantic-settings
+reportlab
+python-dotenv
+
+pytest
+httpx
+pytest-asyncio
+email-validator
